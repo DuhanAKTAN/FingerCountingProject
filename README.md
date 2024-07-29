@@ -1,2 +1,3 @@
 # FingerCountingProject
 mediapipe ve openCv kütüphanelerini kullanarak geliştirmiş olduğum görüntü işleme projesini arduino ile birleştirdim.
+Öncelikle handTrackingModule.py kodlarini inceleyip fonksiyonlarin ve class in ne yaptiklarini kavrayin, sonra FingerCountingProject.py main kodlari inceleyin burada ana işlemleri yaptim ve arduino ya gönderdim. En son olarak FingerCountingProject_arduino klasörü içindeki arduino ide içerisinde yazilmiş C++ kodlarini inceleyebilirisiniz ...
